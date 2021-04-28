@@ -12,6 +12,7 @@ covid
 cowpy
 cryptg
 csvfaker
+cv2
 DateTime
 fontTools
 python-dotenv
